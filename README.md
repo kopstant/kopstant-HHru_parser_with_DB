@@ -20,15 +20,15 @@ Nadelayev.D.A
 
     database.ini  внутри себя имееет данные в следующей типовой форме:
 
-     [postgresql]
+     [postgresql] - название базы данных
  
-     host=localhost
+     host=localhost - имя хоста
 
-     user=username
+     user=username - имя пользователя, использованное для регистрации
 
-     password=password
+     password=password - пароль указанный при регистрации
 
-     port=5432
+     port=5432 - стандартный порт
  
 
 
